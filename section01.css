@@ -1,0 +1,40 @@
+h1 {
+   
+    
+    
+    
+    font-family: 'Merriweather', serif;
+   font-size: 300%;
+   margin: 3px;
+   color: #A36D90;
+    
+}
+h3{
+   
+    font-family: 'Merriweather', serif;
+    font-size: 3rem;
+    color: #76818E;
+    position: relative;
+   
+    }
+
+body{
+      
+    font-family: 'Merriweather', serif;
+      background-color: #EACBD2;
+}
+#a {
+    
+    font-family: 'Merriweather', serif;
+    font-weight: 450;
+    font-size: 110%;
+    }
+    div{
+        line-height: 30px;
+        font-family: 'Merriweather', serif;
+    }
+    h2{
+        color: #CF4D6F;
+        font-family: 'Merriweather', serif;
+    }
+    
